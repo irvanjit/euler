@@ -1,2 +1,3 @@
-project euler (projecteuler.net)
-================================
+project euler 
+==============
+(projecteuler.net)
